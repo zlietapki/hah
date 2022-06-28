@@ -1,3 +1,3 @@
-module github.com/zlietapki/hah/v2
+module github.com/zlietapki/hah
 
 go 1.18
