@@ -1,5 +1,5 @@
 package hah
 
 func MyFunc() {
-	println("hello")
+	println("hello v0.0.2")
 }
