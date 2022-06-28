@@ -1,5 +1,5 @@
 package hah
 
 func MyFunc() {
-	println("this will be version v3.0.0")
+	println("so this is feature of version v4.0.0")
 }
